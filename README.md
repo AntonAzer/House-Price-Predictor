@@ -51,6 +51,6 @@ The XGBoost model achieved a significant improvement over Random Forest, reducin
    
 **Competition [Link on Kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/)**
 
-Sparse-Data: while converting the test-form data like name of the street into numbering data to the model it becomes a lot of columns that contains zeros (sparse data), and ordinary Regression Tree deal with it ramdomally
+Sparse-Data (mentioned above): while converting the text-form data like name of the street into numbering data to the model it becomes a lot of columns that contains zeros (sparse data), and ordinary Regression Tree deal with it randomly
 ,but XG. uses better algo in this case.
 
