@@ -32,3 +32,11 @@ The XGBoost model achieved a significant improvement over Random Forest, reducin
 1. **Complex Feature Interactions:** Real estate prices depend on non-linear combinations of features (e.g., total square footage interacted with neighborhood tier). Sequential gradient boosting learns subtle localized sub-patterns that independent parallel trees average out.
 2. **Handling Sparse High-Dimensional Data:** One-hot encoding produces a sparse feature space. XGBoost uses a sparsity-aware split finding algorithm that determines optimal default split directions for zero/missing values, whereas Random Forest splits randomly selected feature subsets regardless of sparsity density.
 3. **Continuous Metric Optimization:** House price regression involves continuous predictions with high variance. The second-order Taylor expansion used in XGBoost's loss function optimizes continuous targets with higher gradient accuracy than the basic variance-reduction split strategy used in Random Forest.
+
+
+ ## Both Models Results:
+   
+   <img width="1386" height="293" alt="image" src="https://github.com/user-attachments/assets/cc914795-6704-4b40-9a23-e83709beaa47" />
+   
+Competition [Link on Kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/)
+
