@@ -37,6 +37,17 @@ The XGBoost model achieved a significant improvement over Random Forest, reducin
  ## Both Models Results:
    
    <img width="1386" height="293" alt="image" src="https://github.com/user-attachments/assets/cc914795-6704-4b40-9a23-e83709beaa47" />
+
+   what in the file is the XG. model , the only difference to try the Regression model to edit this line to
+
+   ```model = RandomForestRegressor(n_estimators=100, random_state=42) ```
    
-Competition [Link on Kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/)
+   And I'm already import that.
+   
+   <img width="1290" height="553" alt="image" src="https://github.com/user-attachments/assets/ef0702a8-15ea-4995-9a18-463f59ddd01e" />
+
+   
+
+   
+**Competition [Link on Kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/)**
 
