@@ -38,7 +38,7 @@ The XGBoost model achieved a significant improvement over Random Forest, reducin
    
    <img width="1386" height="293" alt="image" src="https://github.com/user-attachments/assets/cc914795-6704-4b40-9a23-e83709beaa47" />
 
-   what in the file is the XG. model , the only difference to try the Regression model to edit this line to
+   what in the NB file is the XG. model , the only difference to try the Regression model to edit this line to
 
    ```model = RandomForestRegressor(n_estimators=100, random_state=42) ```
    
