@@ -55,5 +55,5 @@ Sparse-Data (mentioned above): while converting the text-form data like name of 
 ,but XG. uses better algo in this case.
 
 ## More
-For more of Kaggle competition take a look at real-world actual challenge and how I model it [LLM Classification Finetuning](https://www.kaggle.com/code/antonazer/llm-prob?scriptVersionId=347357348).
+For more of Kaggle competition take a look at real-world actual challenge and how I model it with rank 131 in the leaderboard [LLM Classification Finetuning](https://www.kaggle.com/code/antonazer/llm-prob?scriptVersionId=347357348).
 
