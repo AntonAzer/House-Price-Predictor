@@ -59,3 +59,5 @@ Sparse-Data (mentioned above): while converting the text-form data like name of 
 ## More
 For more of Kaggle competition take a look at real-world actual challenge and how I model it with rank 131 in the leaderboard [LLM Classification Finetuning](https://www.kaggle.com/code/antonazer/llm-prob?scriptVersionId=347359076).
 
+There is (non-Kaggle) simple on-fly model with demonstrated training pipeline [Gold Predictor](https://github.com/AntonAzer/ML_Model-Gold-Predictor).
+
